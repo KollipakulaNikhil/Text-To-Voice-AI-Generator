@@ -2,3 +2,4 @@ Flask==2.2.3
 deep-translator==1.9.1
 gTTS==2.2.3
 Flask-CORS==5.0.1
+gunicorn==20.1.0
